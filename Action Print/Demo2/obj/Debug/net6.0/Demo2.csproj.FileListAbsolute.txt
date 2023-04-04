@@ -1,0 +1,15 @@
+D:\C# Advanced\Action Print\Demo2\bin\Debug\net6.0\Demo2.exe
+D:\C# Advanced\Action Print\Demo2\bin\Debug\net6.0\Demo2.deps.json
+D:\C# Advanced\Action Print\Demo2\bin\Debug\net6.0\Demo2.runtimeconfig.json
+D:\C# Advanced\Action Print\Demo2\bin\Debug\net6.0\Demo2.dll
+D:\C# Advanced\Action Print\Demo2\bin\Debug\net6.0\Demo2.pdb
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\Demo2.csproj.AssemblyReference.cache
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\Demo2.AssemblyInfoInputs.cache
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\Demo2.AssemblyInfo.cs
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\Demo2.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\Demo2.dll
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\refint\Demo2.dll
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\Demo2.pdb
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\Demo2.genruntimeconfig.cache
+D:\C# Advanced\Action Print\Demo2\obj\Debug\net6.0\ref\Demo2.dll

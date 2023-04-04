@@ -1,0 +1,15 @@
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\bin\Debug\net6.0\MatchingBrackets.exe
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\bin\Debug\net6.0\MatchingBrackets.deps.json
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\bin\Debug\net6.0\MatchingBrackets.runtimeconfig.json
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\bin\Debug\net6.0\MatchingBrackets.dll
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\bin\Debug\net6.0\MatchingBrackets.pdb
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\MatchingBrackets.AssemblyInfo.cs
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\MatchingBrackets.dll
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\refint\MatchingBrackets.dll
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\MatchingBrackets.pdb
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\MatchingBrackets.genruntimeconfig.cache
+C:\Users\lacho\source\repos\Stacks and Queues\MatchingBrackets\obj\Debug\net6.0\ref\MatchingBrackets.dll

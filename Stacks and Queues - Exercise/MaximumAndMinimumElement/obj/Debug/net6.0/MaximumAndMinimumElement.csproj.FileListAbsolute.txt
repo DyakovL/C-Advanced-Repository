@@ -1,0 +1,15 @@
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.csproj.AssemblyReference.cache
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.exe
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.deps.json
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.dll
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.pdb
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.dll
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\refint\MaximumAndMinimumElement.dll
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.pdb
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\lacho\source\repos\Stacks and Queues - Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\ref\MaximumAndMinimumElement.dll

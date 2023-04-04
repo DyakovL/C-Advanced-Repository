@@ -1,0 +1,15 @@
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\bin\Debug\net6.0\KnightGame.exe
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\bin\Debug\net6.0\KnightGame.deps.json
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\bin\Debug\net6.0\KnightGame.runtimeconfig.json
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\bin\Debug\net6.0\KnightGame.dll
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\bin\Debug\net6.0\KnightGame.pdb
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\KnightGame.csproj.AssemblyReference.cache
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\KnightGame.AssemblyInfoInputs.cache
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\KnightGame.AssemblyInfo.cs
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\KnightGame.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\KnightGame.dll
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\refint\KnightGame.dll
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\KnightGame.pdb
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\KnightGame.genruntimeconfig.cache
+D:\C# Advanced\Multidimensional Arrays - Exercise\KnightGame\obj\Debug\net6.0\ref\KnightGame.dll

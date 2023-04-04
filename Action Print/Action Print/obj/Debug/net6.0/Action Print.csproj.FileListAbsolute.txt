@@ -1,0 +1,15 @@
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\Action Print.csproj.AssemblyReference.cache
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\Action Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\Action Print.AssemblyInfoInputs.cache
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\Action Print.AssemblyInfo.cs
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\Action Print.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Action Print\Action Print\bin\Debug\net6.0\Action Print.exe
+D:\C# Advanced\Action Print\Action Print\bin\Debug\net6.0\Action Print.deps.json
+D:\C# Advanced\Action Print\Action Print\bin\Debug\net6.0\Action Print.runtimeconfig.json
+D:\C# Advanced\Action Print\Action Print\bin\Debug\net6.0\Action Print.dll
+D:\C# Advanced\Action Print\Action Print\bin\Debug\net6.0\Action Print.pdb
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\Action Print.dll
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\refint\Action Print.dll
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\Action Print.pdb
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\Action Print.genruntimeconfig.cache
+D:\C# Advanced\Action Print\Action Print\obj\Debug\net6.0\ref\Action Print.dll

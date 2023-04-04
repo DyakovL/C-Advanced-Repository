@@ -1,0 +1,30 @@
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.exe
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.deps.json
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.runtimeconfig.json
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.dll
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.pdb
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.dll
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\refint\JaggedArrayManipulator.dll
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.pdb
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\lacho\source\repos\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\ref\JaggedArrayManipulator.dll
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.exe
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.deps.json
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.runtimeconfig.json
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.dll
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.pdb
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.csproj.AssemblyReference.cache
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.AssemblyInfo.cs
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.dll
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\refint\JaggedArrayManipulator.dll
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.pdb
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.genruntimeconfig.cache
+D:\C# Advanced\Multidimensional Arrays - Exercise\JaggedArrayManipulator\obj\Debug\net6.0\ref\JaggedArrayManipulator.dll

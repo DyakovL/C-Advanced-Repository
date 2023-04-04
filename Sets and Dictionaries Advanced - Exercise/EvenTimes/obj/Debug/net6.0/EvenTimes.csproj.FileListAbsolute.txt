@@ -1,0 +1,30 @@
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.AssemblyReference.cache
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfo.cs
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.exe
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.deps.json
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.runtimeconfig.json
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.dll
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.pdb
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.dll
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\refint\EvenTimes.dll
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.pdb
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.genruntimeconfig.cache
+C:\Users\lacho\source\repos\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\ref\EvenTimes.dll
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.exe
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.deps.json
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.runtimeconfig.json
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.dll
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.pdb
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.AssemblyReference.cache
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfoInputs.cache
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfo.cs
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.dll
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\refint\EvenTimes.dll
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.pdb
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.genruntimeconfig.cache
+D:\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\net6.0\ref\EvenTimes.dll

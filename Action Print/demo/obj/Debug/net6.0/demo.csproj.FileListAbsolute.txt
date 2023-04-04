@@ -1,0 +1,15 @@
+D:\C# Advanced\Action Print\demo\bin\Debug\net6.0\demo.exe
+D:\C# Advanced\Action Print\demo\bin\Debug\net6.0\demo.deps.json
+D:\C# Advanced\Action Print\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+D:\C# Advanced\Action Print\demo\bin\Debug\net6.0\demo.dll
+D:\C# Advanced\Action Print\demo\bin\Debug\net6.0\demo.pdb
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\demo.dll
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\refint\demo.dll
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\demo.pdb
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+D:\C# Advanced\Action Print\demo\obj\Debug\net6.0\ref\demo.dll

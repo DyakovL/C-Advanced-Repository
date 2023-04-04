@@ -1,0 +1,15 @@
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\bin\Debug\net6.0\Square Root.exe
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\bin\Debug\net6.0\Square Root.deps.json
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\bin\Debug\net6.0\Square Root.runtimeconfig.json
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\bin\Debug\net6.0\Square Root.dll
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\bin\Debug\net6.0\Square Root.pdb
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\Square Root.csproj.AssemblyReference.cache
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\Square Root.AssemblyInfoInputs.cache
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\Square Root.AssemblyInfo.cs
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\Square Root.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\Square Root.dll
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\refint\Square Root.dll
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\Square Root.pdb
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\Square Root.genruntimeconfig.cache
+D:\C# Advanced\Exceptions and Error Handling - Lab\Square Root\obj\Debug\net6.0\ref\Square Root.dll
