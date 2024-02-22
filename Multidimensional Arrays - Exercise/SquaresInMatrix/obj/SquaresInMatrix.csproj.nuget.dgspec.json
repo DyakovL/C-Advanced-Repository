@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Advanced\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\SquaresInMatrix.csproj": {}
+    "D:\\C# Advanced Repo\\C# Advanced Repository\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\SquaresInMatrix.csproj": {}
   },
   "projects": {
-    "D:\\C# Advanced\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\SquaresInMatrix.csproj": {
+    "D:\\C# Advanced Repo\\C# Advanced Repository\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\SquaresInMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Advanced\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\SquaresInMatrix.csproj",
+        "projectUniqueName": "D:\\C# Advanced Repo\\C# Advanced Repository\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\SquaresInMatrix.csproj",
         "projectName": "SquaresInMatrix",
-        "projectPath": "D:\\C# Advanced\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\SquaresInMatrix.csproj",
+        "projectPath": "D:\\C# Advanced Repo\\C# Advanced Repository\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\SquaresInMatrix.csproj",
         "packagesPath": "C:\\Users\\lacho\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Advanced\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\obj\\",
+        "outputPath": "D:\\C# Advanced Repo\\C# Advanced Repository\\Multidimensional Arrays - Exercise\\SquaresInMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
